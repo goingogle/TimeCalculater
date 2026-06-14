@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #2B6CB0;
+  --color-primary-light: #3182CE;
+  --color-primary-dark: #2C5282;
+  --color-success: #38A169;
+  --color-warning: #DD6B20;
+  --color-danger: #E53E3E;
+  --color-bg: #F7FAFC;
+  --color-bg-card: #FFFFFF;
+  --color-text: #1A202C;
+  --color-text-secondary: #718096;
+  --color-border: #E2E8F0;
+  --sidebar-width: 200px;
+  --header-height: 56px;
+}
